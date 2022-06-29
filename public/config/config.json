@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x5B8c55aF86c003EAD4869cb3783d21B9A7B57881",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x5B8c55aF86c003EAD4869cb3783d21B9A7B57881",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "The Fuzzy Club",
   "SYMBOL": "TFC",
-  "MAX_SUPPLY": 992,
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-fuzzy-fox",
   "SHOW_BACKGROUND": true
 }
